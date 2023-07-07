@@ -6,9 +6,11 @@ obiect tracking의 프레임 워크중 하나인 deep sort에 대해 자세히 �
 
 ## 👏 팀 소개 
 
-|이지호|이제희|박준하|김수연
-|![image](https://github.com/khuda-3rd/README_example/assets/90135669/e5ebdc70-3dfa-493f-a865-3d14b2bc7685)|![image](https://github.com/khuda-3rd/README_example/assets/90135669/6f986eee-9e0d-48cb-b2f5-fa9cf785fb8e)|![image](https://github.com/khuda-3rd/README_example/assets/90135669/fcb6281e-6bdd-4f06-9cb7-eb5772c88803)|![image](https://github.com/khuda-3rd/README_example/assets/90135669/fcb6281e-6bdd-4f06-9cb7-eb5772c88803)|
-|[개인 리포지토리](https://github.com/khuda-3rd)|[개인 리포지토리](https://github.com/khuda-3rd)|[개인 리포지토리](https://github.com/khuda-3rd)|[개인 리포지토리](https://github.com/khuda-3rd)|
+* 이지호
+* 이제희
+* 박준하
+* 김수연
+
 
 
 ## 🔎 핵심 기능 구현
